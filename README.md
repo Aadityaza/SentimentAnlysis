@@ -2,7 +2,7 @@ This project performs sentiment analysis on restaurant reviews using a neural ne
 
 ## Notebook
 
-The code is implemented in a Jupyter Notebook file (`restaurant_review_sentiment_analysis.ipynb`). The notebook contains all the necessary code, explanations, and visualizations.
+The code is implemented in a Colab Notebook file (`restaurant_review_sentiment_analysis.ipynb`). The notebook contains all the necessary code, explanations, and visualizations.
 
 ## Usage
 
