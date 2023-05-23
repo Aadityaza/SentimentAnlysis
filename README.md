@@ -12,3 +12,6 @@ The code is implemented in a Colab Notebook file (`restaurant_review_sentiment_a
 
    ```bash
    pip install -r requirements.txt
+
+Gradio Interface
+![image](https://github.com/Aadityaza/SentimentAnlysis/assets/45432533/e71b5ed4-5532-4df3-9b3e-4ec26169f00d)
